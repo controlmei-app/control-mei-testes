@@ -1,9 +1,9 @@
-CONTROL MEI 9.1 — PACOTE PARA GITHUB PAGES
+CONTROL MEI 9.2 — PRÉ-TESTES
 
-Envie os arquivos index.html, manifest.webmanifest, icon-192.png e icon-512.png para a RAIZ do repositorio. Nao envie apenas o ZIP.
-
-Settings > Pages > Deploy from a branch > main > /(root).
-
-O arquivo index.html contem toda a logica do aplicativo. Os outros arquivos fornecem icones e metadados de instalacao. Nao ha backend nem sincronizacao entre dispositivos. Dados salvos localmente no navegador.
-
-VERSAO DE TESTES: use dados ficticios. Faca backup antes de trocar de navegador ou aparelho. Nao substitua o repositorio principal sem homologacao.
+Envie os arquivos extraídos para a raiz do repositório de testes.
+Os dados da versão 9.1 são preservados no mesmo endereço e navegador (chave control-mei-v9-data).
+ANTES DE ATUALIZAR: exporte um backup na aba Mais.
+Contas mensais cadastradas são apenas previsões, não geram despesas automaticamente.
+Ao clicar Registrar pagamento, abre-se um lançamento de despesa que deve ser confirmado.
+Datas digitadas DD/MM/AAAA, armazenadas ISO.
+Atenção: não homologado para dados reais; testes de migração e cancelamentos complexos ainda pendentes.
