@@ -1,0 +1,23 @@
+{
+  "name": "CONTROL MEI 9.1 — Testes",
+  "short_name": "CONTROL MEI",
+  "description": "Aplicativo de gestão para MEI — versão experimental de testes",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf1f4",
+  "theme_color": "#12384a",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

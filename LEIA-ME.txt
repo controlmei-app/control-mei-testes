@@ -1,0 +1,9 @@
+CONTROL MEI 9.1 — PACOTE PARA GITHUB PAGES
+
+Envie os arquivos index.html, manifest.webmanifest, icon-192.png e icon-512.png para a RAIZ do repositorio. Nao envie apenas o ZIP.
+
+Settings > Pages > Deploy from a branch > main > /(root).
+
+O arquivo index.html contem toda a logica do aplicativo. Os outros arquivos fornecem icones e metadados de instalacao. Nao ha backend nem sincronizacao entre dispositivos. Dados salvos localmente no navegador.
+
+VERSAO DE TESTES: use dados ficticios. Faca backup antes de trocar de navegador ou aparelho. Nao substitua o repositorio principal sem homologacao.
