@@ -1,9 +1,10 @@
-CONTROL MEI 9.2 — PRÉ-TESTES
+CONTROL MEI 9.3 — PRÉ-TESTES
 
-Envie os arquivos extraídos para a raiz do repositório de testes.
-Os dados da versão 9.1 são preservados no mesmo endereço e navegador (chave control-mei-v9-data).
-ANTES DE ATUALIZAR: exporte um backup na aba Mais.
-Contas mensais cadastradas são apenas previsões, não geram despesas automaticamente.
-Ao clicar Registrar pagamento, abre-se um lançamento de despesa que deve ser confirmado.
-Datas digitadas DD/MM/AAAA, armazenadas ISO.
-Atenção: não homologado para dados reais; testes de migração e cancelamentos complexos ainda pendentes.
+Publique os arquivos na raiz do repositório GitHub Pages control-mei-testes.
+Antes de atualizar, exporte um backup pela aba Mais.
+
+Novidades: contas mensais por mês de referência, status Paga/Parcial/Pendente, pagamentos parciais, bloqueio de duplicação vinculada e reconciliação assistida de pagamentos anteriores da 9.2.
+
+IMPORTANTE: despesas da versão 9.2 que não tinham vínculo automático podem aparecer como "Conferir lançamento". Confira e use "Vincular anterior" para evitar pagar duas vezes.
+
+Os dados permanecem apenas neste navegador. Não use dados reais até concluir testes de restauração e segurança.
