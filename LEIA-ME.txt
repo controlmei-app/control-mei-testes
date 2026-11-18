@@ -1,4 +1,9 @@
-CONTROL MEI 9.4 — teste de filtros de movimentações.
-Envie os arquivos da pasta para a raiz do repositório control-mei-testes no GitHub.
-Substitua index.html e mantenha os demais arquivos.
-Os filtros não modificam os dados gravados; dados continuam locais no navegador.
+CONTROL MEI 9.5 — pré-testes
+
+Atualização do histórico: recebido e pago separados; movimento líquido do caixa das operações filtradas; canceladas visualmente diferenciadas; filtros mantidos ao navegar entre abas.
+
+IMPORTANTE: antes de atualizar o GitHub, exporte backup completo em Mais. Os dados são locais ao navegador.
+
+Atenção: o resumo usa os pagamentos vinculados às operações filtradas, mesmo se o pagamento tiver ocorrido fora do período da operação. Não é extrato de caixa por data de pagamento.
+
+Publique os arquivos na raiz do repositório de testes, substituindo index.html.
