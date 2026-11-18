@@ -1,9 +1,9 @@
-CONTROL MEI 9.5 — pré-testes
+CONTROL MEI 9.6 — VERSÃO DE TESTES
 
-Atualização do histórico: recebido e pago separados; movimento líquido do caixa das operações filtradas; canceladas visualmente diferenciadas; filtros mantidos ao navegar entre abas.
+Atualização da interface do histórico: agrupamento por mês, etiquetas de tipo e situação, valores pagos/recebidos e pendências por operação.
 
-IMPORTANTE: antes de atualizar o GitHub, exporte backup completo em Mais. Os dados são locais ao navegador.
+Preservados: chave de armazenamento, formato do backup v9, lógica de caixa, estoque, cancelamentos, contas mensais e precificação.
 
-Atenção: o resumo usa os pagamentos vinculados às operações filtradas, mesmo se o pagamento tiver ocorrido fora do período da operação. Não é extrato de caixa por data de pagamento.
+Antes de publicar: guarde o backup 9.5 e substitua o index.html do repositório de testes pelo deste pacote. Não envie como index(1).html.
 
-Publique os arquivos na raiz do repositório de testes, substituindo index.html.
+Teste com restauração do backup 9.5 em navegador convidado e confira operações, pagamentos parciais, canceladas e estoque.
