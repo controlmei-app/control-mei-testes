@@ -1,10 +1,4 @@
-CONTROL MEI 9.3 — PRÉ-TESTES
-
-Publique os arquivos na raiz do repositório GitHub Pages control-mei-testes.
-Antes de atualizar, exporte um backup pela aba Mais.
-
-Novidades: contas mensais por mês de referência, status Paga/Parcial/Pendente, pagamentos parciais, bloqueio de duplicação vinculada e reconciliação assistida de pagamentos anteriores da 9.2.
-
-IMPORTANTE: despesas da versão 9.2 que não tinham vínculo automático podem aparecer como "Conferir lançamento". Confira e use "Vincular anterior" para evitar pagar duas vezes.
-
-Os dados permanecem apenas neste navegador. Não use dados reais até concluir testes de restauração e segurança.
+CONTROL MEI 9.4 — teste de filtros de movimentações.
+Envie os arquivos da pasta para a raiz do repositório control-mei-testes no GitHub.
+Substitua index.html e mantenha os demais arquivos.
+Os filtros não modificam os dados gravados; dados continuam locais no navegador.
